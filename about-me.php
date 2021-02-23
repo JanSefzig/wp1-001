@@ -1,2 +1,2 @@
-<?echo Nicolas Jan Sefzig?> 
+<?php echo "Nicolas Jan Sefzig";?> 
 
